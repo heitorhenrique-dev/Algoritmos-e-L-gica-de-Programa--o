@@ -24,5 +24,3 @@ Tecnologias:
 - GitHub
 
 ---
-
-📌 Repositório em constante atualização conforme avanço nos estudos.
